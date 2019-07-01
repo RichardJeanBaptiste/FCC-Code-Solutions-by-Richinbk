@@ -3,7 +3,6 @@
   Return the truncated string with a ... ending.
 */
 
-
 function truncateString(str, num) {
   
   let x = str;
